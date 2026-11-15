@@ -5,7 +5,7 @@ I'm passionate about **ML research** and the **engineering** that makes models w
 - 🔬 ML research at the **[Mahmood Lab](https://faisal.ai/), Harvard Medical School**
 - 🎓 MSc Data Science, **ETH Zurich** (2026)
 - 🎓 BSc Computer Science, **EPFL** (2024)
-- 💡 Interests: (Multimodal) foundation models, Computer Vision, LLMs, Representation Learning, Reinforcement Learning, AI engineering
+- 💡 Interests: (Multimodal) Foundation Models, Computer Vision, LLMs, Representation Learning, Reinforcement Learning, AI engineering (agentic workflows, ML systems)
 
 ### Projects
 
