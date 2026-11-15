@@ -3,8 +3,8 @@
 I'm passionate about **ML research** and the **engineering** that makes models work in practice.
 
 - 🔬 ML research at the **Mahmood Lab, Harvard Medical School**
-- 🎓 MSc Data Science, **ETHZ** (2026)
-- 🎓 BSc Computer Science, **EPFL** (2024)
+- 🎓 MSc Data Science, **ETHZ** (grad. 2026)
+- 🎓 BSc Computer Science, **EPFL** (grad. 2024)
 - 💡 Interests: (Multimodal) Foundation Models, Computer Vision, LLMs, Representation Learning, Reinforcement Learning, AI engineering (agentic workflows, ML systems)
 
 ### Projects
