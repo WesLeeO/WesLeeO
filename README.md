@@ -20,3 +20,7 @@ I'm passionate about **ML research** and the **engineering** that makes models w
 - **Pendulum** — DDPG for continuous torque control
 - **LunarLander** — DQN lands safely between the flags in 50/50 episodes
 - **Atari Pong from raw pixels** — CNN-based DQN and PPO win every game, typically 21–1
+
+  
+### Get in touch
+[LinkedIn](https://linkedin.com/in/wesley-nana-davies-57116a287)
