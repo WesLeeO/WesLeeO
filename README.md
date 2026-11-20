@@ -15,7 +15,7 @@ I'm passionate about **ML research** and the **engineering** that makes models w
 **[ETH AI Center chatbot](https://github.com/WesLeeO/dsl25-7-center-bot)** — Slack assistant for the ETH AI Center under the Swiss AI Initiative: RAG over Notion, Google Drive, Airtable, web pages and Slack history (ChromaDB + MiniLM embeddings), plus MCP tools giving Claude live access to Airtable and Slack. *Data Science Lab, ETH Zurich (2025), team project.*
 
 #### ML Research 
-**[Learning to ask the right questions](https://github.com/WesLeeO/AEI)** — An LLM interviews a simulated patient one question per turn, then commits to an ICD-10 diagnosis. Trained with SFT, then multi-turn **PPO** (per-turn credit from a value head) and **GRPO** (per-rollout credit), rewarding correct diagnoses with as few questions as possible. *Semester project, LAS Lab, ETH Zurich. Setember 2024 - December 2024*
+**[Learning to ask the right questions](https://github.com/WesLeeO/AEI)** — An LLM interviews a simulated patient one question per turn, then commits to an ICD-10 diagnosis. Trained with SFT, then multi-turn **PPO** (per-turn credit from a value head) and **GRPO** (per-rollout credit), rewarding correct diagnoses with as few questions as possible. *Semester project, LAS Lab, ETH Zurich. Setember 2025 - December 2025*
 
 **[GymRL](https://github.com/WesLeeO/GymRL)** — Q-learning, DQN, PPO and DDPG from scratch in PyTorch:
 - **CartPole & Acrobot** — tabular Q-learning on CartPole; DQN and PPO solve both (DQN: 500/500 on CartPole)
